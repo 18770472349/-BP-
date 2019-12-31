@@ -16,3 +16,7 @@
 “MNIST_data_matlab-master”：
 训练数据集和测试数据集
 下载地址：https://github.com/gszswork/MNIST_data_matlab
+
+
+BP神经网络代码参考链接：
+https://blog.csdn.net/github_35807147/article/details/80529247.
